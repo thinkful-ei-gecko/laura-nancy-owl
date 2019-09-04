@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import Stage from './Stage';
-import participants from './ParticipantsList';
+import participants from './Store';
 import renderer from 'react-test-renderer';
 
 describe('<Stage />', () => {
