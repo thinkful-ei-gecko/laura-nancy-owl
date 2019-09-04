@@ -1,0 +1,54 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Participants /> renders this UI as expected 1`] = `
+<section
+  className="participantsList"
+>
+  <div
+    className="info"
+  >
+    <ul>
+      <li>
+        Koren Templeton
+        <img
+          alt="{participant.name}"
+          src="https://robohash.org/itaquevoluptatumrerum.jpg?size=200x200&set=set1"
+        />
+        <span>
+          on stage
+        </span>
+      </li>
+      <li>
+        Caty Flucker
+        <img
+          alt="{participant.name}"
+          src="https://robohash.org/doloredolorescupiditate.jpg?size=200x200&set=set1"
+        />
+        <span>
+          observer
+        </span>
+      </li>
+      <li>
+        Frank Runciman
+        <img
+          alt="{participant.name}"
+          src="https://robohash.org/etexercitationemassumenda.jpg?size=200x200&set=set1"
+        />
+        <span>
+          observer
+        </span>
+      </li>
+      <li>
+        Ashla Attwool
+        <img
+          alt="{participant.name}"
+          src="https://robohash.org/iustodoloremqueinventore.jpg?size=200x200&set=set1"
+        />
+        <span>
+          on stage
+        </span>
+      </li>
+    </ul>
+  </div>
+</section>
+`;
